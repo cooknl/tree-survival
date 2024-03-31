@@ -1,5 +1,7 @@
 # Tree Survival
 
+This is code following the tutorial [Get started with SQL in Observable Framework](https://www.youtube.com/watch?v=Urf_bPFyhIk)
+
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
 
 ```
